@@ -1,0 +1,9 @@
+.DS_Store
+
+# Editor and shell artifacts
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.orig
